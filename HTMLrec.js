@@ -163,7 +163,7 @@ lib.properties = {
 	opacity: 1.00,
 	webfonts: {},
 	manifest: [
-		{src:"images/HTMLrec_atlas_.png", id:"HTMLrec_atlas_"}
+		{src:"HTMLrec_atlas_.png", id:"HTMLrec_atlas_"}
 	],
 	preloads: []
 };
